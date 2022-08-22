@@ -44,7 +44,9 @@ kata coach justin
 
 ## cita cita lu apaan dah?
 
-cita - cita gua sih kek gini![1661139508451](https://file+.vscode-resource.vscode-cdn.net/d%3A/Tugas%20Kuliah/ta/image/README/1661139508451.png)
+cita - cita gua sih kek gini
+
+![1661141066127](image/README/1661141066127.png)
 
 ## lu sebenernya banyak duitkan?
 
